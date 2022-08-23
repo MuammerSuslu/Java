@@ -1,4 +1,4 @@
-public class Variables
+public class Java2_Variables
 {
     public static <boolen> void main(String[] args)
     {
@@ -8,7 +8,7 @@ public class Variables
         int myNum = 5;               // Integer (whole number)
         float myfloatnum = 5.99f;    // Floating oint number
         char myletter = 'D';         // charecter, you can use numbers from Iscii table to define.
-        boolen mybool = true;        // Boolean
+        boolean mybool = true;        // Boolean
         Byte smallNumber = 3;        // stares whole numbers from -128 to 127
         short shortNumber = 4;       // Stores whole numbers from -32,768 to 32,767
         long longNumber = 123456789; // Stores whole numbersform -9223,372,036,854,775.808 to 9223,372,036,854,775.807
@@ -25,6 +25,12 @@ public class Variables
         //  char has only one character within single quote
         // boolean has only true and false as value
 
+
+//        ... myNumber = 9;
+//        ... muFloatNum = 8.99f;
+//        ... myLetter = 'A';
+//        ... myBool = false;
+//        ... myText = "Hello World";
 
 
 

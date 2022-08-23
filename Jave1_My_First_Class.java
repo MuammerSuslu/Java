@@ -1,4 +1,4 @@
-public class MyFirstClass
+public class Jave1_My_First_Class
 {
 //    After you create your first and class
 //    you have to create your main method to run commands
