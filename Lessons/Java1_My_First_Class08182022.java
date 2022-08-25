@@ -1,4 +1,6 @@
-public class Jave1_My_First_Class08182022
+package Lessons;
+
+public class Java1_My_First_Class08182022
 {
 //    After you create your first and class
 //    you have to create your main method to run commands
