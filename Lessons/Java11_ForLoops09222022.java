@@ -1,6 +1,6 @@
 package Lessons;
 
-public class Java11_Loops09222022
+public class Java11_ForLoops09222022
 {
     public static void main(String[] args)
     {
@@ -75,6 +75,14 @@ public class Java11_Loops09222022
         {
             System.out.println("blue world"+ " iteration number "+i);
         }
+
+        /*
+        WHILE LOO
+        while loop helps you to repeat processes as many times as you need/want
+        each loop has initialization termination and increment
+        as the condition is true loop keep running again and again.
+        you can break the loop if you need
+         */
 
 
 
